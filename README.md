@@ -1,2 +1,2 @@
-# desdelatool
-Desde La Tool - Globallogic
+# Desde La Tool
+GL Internal Project
